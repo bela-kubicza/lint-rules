@@ -1,0 +1,28 @@
+{
+  "name": "@bela.kubicza/lint-rules",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bela-kubicza/lint-rules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bela-kubicza/lint-rules/issues"
+  },
+  "homepage": "https://github.com/bela-kubicza/lint-rules#readme",
+  "dependencies": {
+    "tslint-angular": "^1.1.2",
+    "tslint-sonarts": "^1.8.0"
+  },
+  "deprecated": false,
+  "description": "## ESLint ### Install To install this package to your local project run the following npm command",
+  "devDependencies": {
+    "tslint": "^5.11.0"
+  }
+}
