@@ -1,6 +1,6 @@
 {
   "name": "@bela.kubicza/lint-rules",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/bela-kubicza/lint-rules#readme",
   "dependencies": {
-    "tslint-angular": "^1.1.2",
-    "tslint-sonarts": "^1.8.0"
+    "tslint-angular": "^3.0.2",
+    "tslint-sonarts": "^1.9.0"
   },
   "deprecated": false,
   "description": "## ESLint ### Install To install this package to your local project run the following npm command",
