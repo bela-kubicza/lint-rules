@@ -13,7 +13,7 @@ In your projects root create a file called tslint.json add the following content
 
 ```json
 {
-  "extends": "./node_modules/@bela.kubicza/lint-rules/tslint/whg-lint-rules.json",
+  "extends": "./node_modules/@bela.kubicza/lint-rules/tslint/lint-rules.json",
   "rules": {}
 }
 ```
