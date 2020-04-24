@@ -1,4 +1,4 @@
-# White Hat Gaming FE Linting Tools
+# FE Linting Tools
 
 ## TSLint
 ### Install

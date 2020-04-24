@@ -1,7 +1,7 @@
 {
   "name": "@bela.kubicza/lint-rules",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "## TSLint ### Install To install this package to your local project run the following npm command",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,6 @@
     "tslint-sonarts": "^1.9.0"
   },
   "deprecated": false,
-  "description": "## ESLint ### Install To install this package to your local project run the following npm command",
   "devDependencies": {
     "tslint": "^5.11.0"
   }
